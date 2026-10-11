@@ -1,4 +1,4 @@
-# Wi‑Fi Troubleshooting Guide
+# Wi‑Fi Troubleshooting Guide - CHANGED TITLE
 
 ## Current Revision
 
@@ -25,3 +25,4 @@ No issues currently documented.
 ## Escalation
 
 If the issue persists after all troubleshooting steps have been completed, contact the Service Desk.
+
