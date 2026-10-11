@@ -16,3 +16,8 @@ Priority: Standard
 ## Escalation
 
 Users should contact IT support if they experience account issues.
+
+
+
+UPDATE - ITS FOOTBALL SEASON!! GO PACKERS!
+
